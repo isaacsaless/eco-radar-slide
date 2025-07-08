@@ -1,6 +1,6 @@
 {
   "name": "eco-radar-slide",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "author": "isaacsaless",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
